@@ -29,3 +29,50 @@ a) low liquidity (as they aren’t generally traded across many exchanges);&#x20
 b) ascertaining the proof of reserves (determining whether the company has the claimed reserves and gold backing or not);&#x20;
 
 c) a dependence on central parties for collateral safekeeping and auditing, which practically defeats their purpose as “cryptocurrencies,” as one of the necessary properties of cryptocurrencies is decentralization.
+
+
+
+
+
+Decentralised Reserve Banking and algorithmic stablecoin’s:
+
+* market potential
+* issues
+* renaissance
+* most promising projects
+
+Why should you care about algorithmic stablecoins in the first place?
+
+1\) In the past 12 months stablecoins have transacted $1.5 trillion in volume and are on pace for over $1 trillion in Q1 2021 alone.
+
+![](<../../../.gitbook/assets/EvkOprgXYAIcgzD (2).jpg>)
+
+2\) Last week the total market capitalization of stablecoins surpassed $50 billion as users continue to demand stable means of storing and transferring value on public blockchains.
+
+![](../../../.gitbook/assets/EvkOpTBXAAEcilz.jpg)
+
+But the above is the just the beginning of the story.
+
+Stablecoins are one of the few applications of public blockchains that legitimately have a multi-trillion dollar addressable market.
+
+3\) With the US dollar accounting for about 55% of the world’s international transactions, savings, and borrowing, there is large structural global demand for USD, especially outside the US financial system. [https://www.linkedin.com/pulse/money-credit-debt-ray-dalio/](https://www.linkedin.com/pulse/money-credit-debt-ray-dalio/)
+
+4\) Stablecoins are uniquely positioned to service this offshore dollar demand by providing individuals and businesses globally with easy access to dollars due to stablecoins being natively digital, globally accessible, and relatively more seizure resistant. [https://web.archive.org/web/20201108192443/https://unexpected-values.com/crypto-dollars/](https://web.archive.org/web/20201108192443/https://unexpected-values.com/crypto-dollars/)
+
+5\) While the size of the offshore dollar market (dollars deposits held outside the US) is difficult to estimate, data from the BIS suggests it could be over $57 trillion dollars.
+
+It may sound crazy, but this is the market stablecoins are beginning to eat into.
+
+![](../../../.gitbook/assets/EvkOqLYWQAMR2xE.jpg)
+
+But while stablecoins have seen great adoption within crypto so far, and are powerful in their current state, they’re far from perfect.
+
+The leading stablecoins by market capitalization today are centralized (e.g. USDT) and expose their holders to censorship, seizure, and counterparty risk.
+
+The above properties make these stablecoins less socially scalable and less reliable.
+
+On the other hand we have decentralized stablecoins which while have also shown great progress are not perfect either.
+
+They’re often capital inefficient, governance heavy, difficult to scale, and in some cases unstable (like the first generation algorithmic stablecoins).
+
+So where does this algorithmic stablecoin Renaissance, powered by the idea of protocol owned collateral come in?
