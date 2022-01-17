@@ -1,11 +1,11 @@
 ---
-description: A redesign of the most Secure Money for the 21st Century.
+description: A redesign of the most secure Money made for the 21st Century.
 ---
 
 # 🦁 The Algorithmic Reserve Currency backed by Gold
 
 {% hint style="success" %}
-Lydus Co is an algorithmic reserve currency protocol based on the $GODL token. Each $GODL token accrues value by aquiring 1kg gold in Grade X (Grade 10) Vaults, giving it an intrinsic and stable value ([same](https://goldprice.org/gold-price-history.html)) money that has been used for thousands of years now upgraded to the 21st Century.
+Lydus Co is an algorithmic reserve currency protocol based on the $GODL token. Each $GODL token accrues value by acquiring 1oZ of gold in Grade X (Grade 10) Vaults, giving it an intrinsic and stable value ([same](https://goldprice.org/gold-price-history.html)) money that has been used for thousands of years now truly creating a risk-free distributed.
 {% endhint %}
 
 > We offer fully insured segregated and allocated storage with no counter-party risk, ensuring that our clients are the legal owners of their gold or have it delivered to them. — Vault Management
