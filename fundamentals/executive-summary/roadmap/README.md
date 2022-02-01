@@ -4,41 +4,37 @@ description: This is a GitBook version of the Roadmap found at https://roadmap.l
 
 # Roadmap
 
-### January 2022 <a href="#november-2021" id="november-2021"></a>
+### Q1 2022 <a href="#november-2021" id="november-2021"></a>
 
 * Lydus Co launch
-* Staking and Bonding live
-* App live
-* Marketing operation initiates
-* wFTM and USDC bonds
+* 1,000,000 $GODL Tokens Pre-Sale.
 * Multi-sig implementation
-* Fantom Foundation grant applications
+* Evidence of Insurance certificates (EOI) issued for Treasury Holdings
 * Dashboard update (more information and graphics)
-* 4,4 Bonds deployed (hyperstaking)
-* 5,5 Bonds deployed (smart investing)
-* Additional Bond offering(s)
-* Public figures join signatory board
-* Launch of DAO (governance) and first votes
-* KYC Audits to further build public trust
+* Stable Coin Bonds Deployed
+* Additional Bond offering(s) for Corporate Partners and DAO's
+* Expansion of Board Members and Team
+* Audits of Treasury Holdings by Third Parties
+* Audits of Smart Contracts by Third Parties
+* Development of DAO (governance) for Community Participation
 
-### Q1 2022 <a href="#q4-2021" id="q4-2021"></a>
+### Q2 2022 <a href="#q4-2021" id="q4-2021"></a>
 
 * Listing on Centralised Exchanges
-* Lydus Co LEND / BORROW: Lending and borrowing protocol
-* Further partnerships
-* Audit
-* Dual-incentivized liquidity pools
+* Developing a Lending and borrowing protocol
+* Issuing a Gold-Backed Stablecoin denominated in the Swiss franc
+* Delivery of $GODL Gold Bullion Coins to Stakeholders
+* Proof-liquidity&#x20;
 
 ### 2022 and Beyond <a href="#2022-and-beyond" id="2022-and-beyond"></a>
 
-* Lydus Co PRO (protocol owned liquidity-as-a-service)
-* Cross Chain liquidity
-* General cross-chain expansion
-* NFT drop (Bullion Coins)
+* Lydus Co PRO (protocol owned seigniorage-as-a-service)
+* Cross Chain liquidity & General cross-chain development
+* Bullion Coins
 * Lydus Co BRIDGE
-* Lydus Co LAUNCH: launchpad to incubate innovative start-ups
-* More exchange listings
-* In-person Lydus Co events
+* Lydus Co Charity: Donations to communities affected by hazardous Gold Mining Operations
+
+
 
 Much on our roadmap speaks for itself. We do however want to share a brief explanation regarding several key items:
 
