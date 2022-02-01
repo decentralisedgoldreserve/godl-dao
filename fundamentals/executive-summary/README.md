@@ -1,18 +1,22 @@
 ---
-description: The Algorithmic Reserve Currency backed by Collective Reserves of Gold, Coins.
+description: The Algorithmic Reserve Currency backed by Community Reserves.
 ---
 
 # Executive Summary
 
-**Mission: Build a decentralized financial infrastructure backed by liquid-proof gold coins, creating wealth and a new, bright financial future for the world.**
+**Mission: Build a decentralized financial infrastructure backed by liquid-proof yield-bearing gold bullion coins, generate and distribute wealth, to build a stable financial economy for the world.**
 
-This executive summary is intended to provide a solution to the current issues regarding stores of value, currency inflation, and the future of money by shedding light on the current macroeconomic conditions of the world.
+This executive summary is intended to provide a solution to the current issues regarding stores of value, currency inflation, and to offer a roadmap for the future of monetary systems, shedding light on the current macroeconomic conditions of the world.
 
 ### HISTORY <a href="#history" id="history"></a>
 
-#### The Fiat Experiment FAILED <a href="#the-fiat-experiment-failed" id="the-fiat-experiment-failed"></a>
+#### Fiat Money <a href="#the-fiat-experiment-failed" id="the-fiat-experiment-failed"></a>
 
-The general consensus is that fiat currency is going out of style. It should not be much of a surprise in the time of the most rapid expansion in science and technology that the world’s form and use of currency would also be re-envisioned and recreated.Central banks across the world have failed the people. We can see a stark example of this playing out as the gap between the rich and the poor grows. For reference, **the world's richest 1% have more than twice as much wealth as 6.9 billion people** ([source](https://www.oxfam.org/en/5-shocking-facts-about-extreme-global-inequality-and-how-even-it)).The buck starts with central banking. The infrastructure currently in place disproportionately benefits major institutions like governments and commercial banks while enabling a system that breeds debt stricken lifestyles for the average family. The key issue is the cycle of privatized gains and socialized losses that the current banking system condones.Inflation in the United States hit a 31-year high in October of this year and can be attributed to faulty governance of the US dollar by the Federal Reserve, dangerous policymaking by the U.S. government, as well as other factors including responses to the COVID-19 pandemic ([source](https://www.wsj.com/articles/us-inflation-consumer-price-index-october-2021-11636491959)). But the general issue did not start in the past year.
+The reality is that U.S. Federal Reserve Chair Jerome Powell said the word “transitory” is no longer the most accurate term for describing the nature of the current high inflation rate in describing how long high inflation is expected to last.
+
+Powell also said it would be appropriate for the central bank to consider wrapping up its “taper” of large-scale bond purchases more quickly based on the strength of the economy and high rate of inflation
+
+&#x20;It should not be much of a surprise in the time of the most rapid expansion in science and technology that the world’s form and use of currency would also be re-envisioned and recreated. Central banks across the world have failed the people. We can see a stark example of this playing out as the gap between the rich and the poor grows. For reference, **the world's richest 1% have more than twice as much wealth as 6.9 billion people** ([source](https://www.oxfam.org/en/5-shocking-facts-about-extreme-global-inequality-and-how-even-it)).The buck starts with central banking. The infrastructure currently in place disproportionately benefits major institutions like governments and commercial banks while enabling a system that breeds debt stricken lifestyles for the average family. The key issue is the cycle of privatized gains and socialized losses that the current banking system condones.Inflation in the United States hit a 31-year high in October of this year and can be attributed to faulty governance of the US dollar by the Federal Reserve, dangerous policymaking by the U.S. government, as well as other factors including responses to the COVID-19 pandemic ([source](https://www.wsj.com/articles/us-inflation-consumer-price-index-october-2021-11636491959)). But the general issue did not start in the past year.
 
 #### The 2008 Financial Crisis <a href="#the-2008-financial-crisis" id="the-2008-financial-crisis"></a>
 
