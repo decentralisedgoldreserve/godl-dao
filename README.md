@@ -5,7 +5,7 @@ description: A redesign of the most secure Money made for the 21st Century.
 # 🦁 The Algorithmic Reserve Currency backed by Gold
 
 {% hint style="success" %}
-Lydus Co is an algorithmic reserve currency protocol based on the $GODL token. Each $GODL token accrues value by acquiring 1oZ of gold in Grade X (Grade 10) Vaults, giving it an intrinsic and stable value ([same](https://goldprice.org/gold-price-history.html)) money that has been used for thousands of years now truly creating a risk-free distributed.
+Lydus Co is an algorithmic reserve currency protocol based on the $GODL token. Each $GODL token accrues yield by acquiring Gold in Grade X (Grade 10) Vaults, giving it an intrinsic and stable value ([same](https://goldprice.org/gold-price-history.html)) money that has been used for thousands of years now truly creating a risk-free distributed money.
 {% endhint %}
 
 > We offer fully insured segregated and allocated storage with no counter-party risk, ensuring that our clients are the legal owners of their gold or have it delivered to them. — Vault Management
@@ -22,13 +22,13 @@ Several DAOs with large Treasuries can follow Lydus Co, lead, including Olympus 
 
 Designed in 2022 to mark the next hundreds, years of monetary systems since the de facto introduction of the blockchain gold standard - tying the value of the $GODL to that of gold. The Blockchain Gold Standard 2022 bullion coin is a unique, annual offering from Lydus Co. Featuring the Lion Emoji on its reverse, and the unique NFT, QR Code on the obverse making it an art of digital numismatic science.&#x20;
 
-One GODL is a one-ounce bullion coin struck in 999.9 fine gold in collectable quality proof.
+One $GODL token is both one-ounce bullion coin struck in 999.9 fine gold in collectable proof quality.
 
 {% hint style="success" %}
-Our goal is to create a decentralised gold reserve currency, controlled by autonomous systems, in which the behaviour of the GODL token is optimised at a high level by the collective organisation of participants.
+Our goal is to create a decentralised gold reserve currency, controlled by autonomous systems, in which the behaviour of the GODL token is optimised at a high level by the collective organisation of participants and the global gold supply.
 {% endhint %}
 
-![](<.gitbook/assets/lydian starter.png>)
+![The Fist Coin in the World.](<.gitbook/assets/lydian starter.png>)
 
 ### Guides: Pactolus Protocol
 
@@ -73,5 +73,5 @@ In economic terms, we believe this methodology will consistently offer stability
 {% endcontent-ref %}
 
 {% hint style="warning" %}
-Lydus Co is here to help establish the evolution of money systems blending DeFi 2.0 and Gold, making $GODL becoming the primary vehicle for a modern decentralized monetary system.
+Lydus Co is here to help establish the evolution of money systems blending DeFi and Gold, making $GODL the primary vehicle for a modern decentralized monetary system.
 {% endhint %}

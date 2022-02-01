@@ -54,13 +54,13 @@ Our goal is to create an automated governance system, with an independent curren
 
 We envision $GODL used as a universal medium of exchange and a global store of value.
 
-## How can $GODL deliver such a high APY?
+## Can $GODL deliver a high APY?
 
-The first reason returns are so huge is that they auto-compound every 8 hours so that you continue to earn rewards on top of your rewards.
+The first reason returns are so huge is that they auto-compound every hours so that you continue to earn rewards on top of your rewards.
 
 Another reason for the high APY is the stage in the life cycle of the protocol. GODL tokens that are paid out to stakeholders are minted when bonders sell their assets to the treasury in exchange for GURU. The rate of the APY depends on the rate that the ecosystem is growing. During the early stages of the protocol, while the market cap is small and growth is rapid, the APY numbers can seem too good to be true. As the market cap grows, the APY will drop, balancing out as the currency reaches stabilization.
 
-## **How do I Participate in Lydus Co and GODL?**
+## **How can You Participate in Lydus Co?**
 
 There are two main strategies for market participants: staking and bonding. Stakeholders stake their GODL tokens in return for more GODL tokens, while bonders provide LP, DAI tokens, or wBTC, wETH in exchange for discounted GODL tokens after a fixed vesting period.
 
@@ -76,7 +76,7 @@ The main benefit for bonders comes from price consistency. Bonders commit capita
 
 ## Who Created Lydus Co?
 
-The founder Michalis Papaiakovou worked for a Private Equity firm investing in Oil and Gas, Shipping and Infrastructure projects mainly. He has also been involved in FOREX, Hedge Funds, Law Firms, the Legal Service, the Prosecutor's Office of the Republic of Cyprus and has consulted the Republic's Parliament as a member of the Council on Electronic Governance, Research, and Innovation. &#x20;
+The founder Michalis Papaiakovou worked for a Private Equity Firm investing in Oil and Gas, Shipping and Infrastructure projects, like refineries. He has also been involved in FOREX, Hedge Funds, Law Firms, the Legal Service, the Prosecutor's Office of the Republic of Cyprus and has consulted the Republic's Parliament as a member of the Council on Electronic Governance, Research, and Innovation. &#x20;
 
 Lydus Co is developed from an improved adoption of a fork of Olympus DAO on the Avalanche network.&#x20;
 
