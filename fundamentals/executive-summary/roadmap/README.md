@@ -10,7 +10,7 @@ description: This is a GitBook version of the Roadmap found at https://roadmap.l
 * 1,000,000 $GODL Tokens Pre-Sale.
 * Multi-sig implementation
 * Evidence of Insurance certificates (EOI) issued for Treasury Holdings
-* Dashboard update (more information and graphics)
+* Dashboard Development&#x20;
 * Stable Coin Bonds Deployed
 * Additional Bond offering(s) for Corporate Partners and DAO's
 * Expansion of Board Members and Team
@@ -23,7 +23,7 @@ description: This is a GitBook version of the Roadmap found at https://roadmap.l
 * Listing on Centralised Exchanges
 * Developing a Lending and borrowing protocol
 * Issuing a Gold-Backed Stablecoin denominated in the Swiss franc
-* Delivery of $GODL Gold Bullion Coins to Stakeholders
+* Start of Delivering of $GODL Yield Bearing Gold Bullion Coins to Stakeholders
 * Proof-liquidity&#x20;
 
 ### 2022 and Beyond <a href="#2022-and-beyond" id="2022-and-beyond"></a>
