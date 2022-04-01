@@ -1,5 +1,5 @@
 ---
-description: A redesign of the most secure Money made for the 21st Century.
+description: A re-design of the best of mmoney and DeFi.
 ---
 
 # 🦁 The Algorithmic Reserve Currency backed by Gold
@@ -14,13 +14,13 @@ Lydus Co is an algorithmic reserve currency protocol based on the $GODL token. E
 
 ## The Decentralised Gold Standard
 
-**Invest in the future of gold.**
+**Invest in the future of gold and finance.**
 
 The journey to Lydus' Co adoption of a gold standard can be traced through the future of Minting Function. As the Founder of the Protocol, Michalis Papaiakovou issued a paper in 2021 that led to the $GODL, assigning it a fixed value. Following the Pactolus Protocol of the Decentralised Reserve Currencies, blockchain’s gold standard could get adopted and would be the first system of its type in the world.&#x20;
 
 Several DAOs with large Treasuries can follow Lydus Co, lead, including Olympus DAO, Wonderland Money and many other blockchain projects.&#x20;
 
-Designed in 2022 to mark the next hundreds, years of monetary systems since the de facto introduction of the blockchain gold standard - tying the value of the $GODL to that of gold. The Blockchain Gold Standard 2022 bullion coin is a unique, annual offering from Lydus Co. Featuring the Lion Emoji on its reverse, and the unique NFT, QR Code on the obverse making it an art of digital numismatic science.&#x20;
+Designed in 2022 to mark the next hundreds, of years of monetary systems since the de facto introduction of the blockchain gold standard - tying the value of the $GODL to that of gold. The Blockchain Gold Standard 2022 bullion coin is a unique, annual offering from Lydus Co. Featuring the Lion Emoji on its reverse, and the unique NFT, QR Code on the obverse making it an art of digital numismatic science.&#x20;
 
 One $GODL token is both one-ounce bullion coin struck in 999.9 fine gold in collectable proof quality.
 
