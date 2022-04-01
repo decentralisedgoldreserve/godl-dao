@@ -26,7 +26,7 @@ The narrative that is told of the Great Recession of 2008 is that it was mostly 
 
 There was a positive that rose from this dim reality. Out of this financial crash decentralized cryptocurrency was born- a bright and shimmering light guiding the way for a new financial future.Cryptocurrency holds fast to the ideals of open source data, decentralization, secureness, and efficiency. In contrast to the manner of the Fed and other national reserve banks, cryptocurrency has the potential to be of and by the people. It is a scalable infrastructure that can save humanity from another cycle of financial catastrophe.
 
-#### DAOs - a replacement for banks <a href="#daos-a-replacement-for-banks" id="daos-a-replacement-for-banks"></a>
+#### DABS - a decentralised autonomous bank protocol as a service <a href="#daos-a-replacement-for-banks" id="daos-a-replacement-for-banks"></a>
 
 Without central banks we must ask what the proper replacement would be. It is becoming clear that decentralized autonomous organizations (DAOs), with clear and just representative systems in place, constitute a suitable replacement for central banks.DAOs represent freedom and an efficient way to form a representative democracy. Participants in an economic, political, or environmental system should have the capacity to actively take part in important decisions regarding policy and other related facets of its organizational structure. DAOs help facilitate this in a very efficient manner.In 2008, would you have decided to favor the risky behavior of commercial banks and bail them out, or would you have rather voted in favor of identifying and solving the root cause of the financial meltdown?It was not up to you in 2008, but it can be going forward.
 
