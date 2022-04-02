@@ -7,7 +7,7 @@ description: A re-design of the best of mmoney and DeFi.
 {% hint style="success" %}
 Lydus Co is an algorithmic reserve currency backed by a decentralised immutable registry of NFT ownership and insurance protocol based on the $GODL token and made with gold.&#x20;
 
-Each $GODL token accrues yield by the network effects of acquiring gold in Grade X (Grade 10) Vaults, giving it an intrinsic and stable value same ([same](https://goldprice.org/gold-price-history.html)) money that are always tradable either physically or digitally.&#x20;
+Each $GODL token accrues yield by the network effects of acquiring gold collectively or centralised in Grade X (Grade 10) Vaults, both fully insured and tax-free, with an intrinsic and stable value same ([same](https://goldprice.org/gold-price-history.html)) money that are always tradable both physically and electronically.&#x20;
 
 What has been used for thousands of years now has been redesigned, creating risk-free distributed money for our community because the faith and credit of the industry support it.
 
