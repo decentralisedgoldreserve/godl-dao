@@ -2,11 +2,33 @@
 description: A re-design of the best of mmoney and DeFi.
 ---
 
-# 🦁 The Algorithmic Reserve Currency backed by Gold
+# 🦁 The Algorithmic Reserve Currency made with Gold
 
 {% hint style="success" %}
-Lydus Co is an algorithmic reserve currency protocol based on the $GODL token. Each $GODL token accrues yield by acquiring Gold in Grade X (Grade 10) Vaults, giving it an intrinsic and stable value ([same](https://goldprice.org/gold-price-history.html)) money that has been used for thousands of years now truly creating a risk-free distributed money.
+Lydus Co is an algorithmic reserve currency backed by a decentralised immutable registry of NFT ownership and insurance protocol based on the $GODL token and made with gold.&#x20;
+
+Each $GODL token accrues yield by the network effects of acquiring gold in Grade X (Grade 10) Vaults, giving it an intrinsic and stable value same ([same](https://goldprice.org/gold-price-history.html)) money that are always tradable either physically or digitally.&#x20;
+
+What has been used for thousands of years now has been redesigned, creating risk-free distributed money for our community because the faith and credit of the industry support it.
+
+$$f(x) = x * e^{2 pi i \xi x}$$Carl Sagan famously said we are made from the&#x20;
 {% endhint %}
+
+
+
+{% hint style="success" %}
+Of all the minerals that are mined, none is more useful than gold, Geology.com [says](https://geology.com/minerals/gold/uses-of-gold.shtml). That’s because gold conducts electricity, doesn’t tarnish, can be combined with other metals, can easily be melted and shaped, and has a brilliant luster.
+
+$92 billion per capita project - [psyche](https://www.usmoneyreserve.com/blog/gold-in-space/).
+
+
+
+>
+{% endhint %}
+
+
+
+
 
 > We offer fully insured segregated and allocated storage with no counter-party risk, ensuring that our clients are the legal owners of their gold or have it delivered to them. — Vault Management
 
