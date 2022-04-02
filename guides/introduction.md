@@ -12,9 +12,9 @@ Lydus Co is a decentralised reserve currency _**Coinage As A Service**_ protocol
 
 Lydus was a legendary figure of the 2nd millennium BC who is attested by Herodotus to have been an early king of Lydia and possibly related to the **Heraclidae dynasty**, descendants of Heracles. According to **a consensus of numismatic historians, the Lydian stater was the first coin** officially issued by a government in world history and was the model for virtually all subsequent coinage.&#x20;
 
-Lydus Co is here to establish the evolution of our current money systems **merging together Gold and DeFi, making $GODL & Liquid Proof Coins the primary medium of exchange and store of wealth** in a modern decentralized monetary system.&#x20;
+Lydus Co is here to establish the evolution of our current money systems **merging together Gold and DeFi, making $GODL & Liquid Proof Coins the primary medium of exchange and store of wealth** in a modern **decentralized and highly automated monetary system**.&#x20;
 
-It combines the intangible properties of cryptocurrencies with the dual nature of gold, acting both as an investment and a consumer good, all the while having strong cultural and religious connotations and thereby has **universal demand**.
+It combines the intangible properties of cryptocurrencies with the dual nature of gold, acting both as an investment and as a consumer good, all the while maintaining strong cultural and religious significances and thereby being of **universal demand**.
 
 ## What is GODL?
 
