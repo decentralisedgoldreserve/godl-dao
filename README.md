@@ -11,7 +11,7 @@ Each $GODL token accrues yield by the network effects of acquiring gold in Grade
 
 What has been used for thousands of years now has been redesigned, creating risk-free distributed money for our community because the faith and credit of the industry support it.
 
-$$f(x) = x * e^{2 pi i \xi x}$$Carl Sagan famously said we are made from the&#x20;
+Carl Sagan famously said we are made from the&#x20;
 {% endhint %}
 
 
