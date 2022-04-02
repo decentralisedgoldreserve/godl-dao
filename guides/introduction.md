@@ -8,9 +8,9 @@ description: >-
 
 ## What is Lydus Co?
 
-Lydus Co is a decentralised reserve currency protocol that enables stakeholders to own and hold, the liquidity of its gold-backed treasury, in individual, segregated and allocated custody storage (Grade-X Vaults) or collectively, which means **people are the bank**.
+Lydus Co is a decentralised reserve currency _**Coinage As A Service**_ protocol. It enables stakeholders to **own and hold**, the liquidity of its _**gold-backed treasury**_, in both individual and collective, segregated and allocated custody storages (Grade-X Vaults), making our **community the decentralised bank that issues credit of the protocol**.
 
-Lydus was a legendary figure of the 2nd millennium BC who is attested by Herodotus to have been an early king of Lydia and possibly related to the Heraclidae dynasty, descendants of Heracles. According to a consensus of numismatic historians, the Lydian stater was the first coin officially issued by a government in world history and was the model for virtually all subsequent coinage.&#x20;
+Lydus was a legendary figure of the 2nd millennium BC who is attested by Herodotus to have been an early king of Lydia and possibly related to the **Heraclidae dynasty**, descendants of Heracles. According to **a consensus of numismatic historians, the Lydian stater was the first coin** officially issued by a government in world history and was the model for virtually all subsequent coinage.&#x20;
 
 Lydus Co is here to establish the evolution of our current money systems **merging together Gold and DeFi, making $GODL & Liquid Proof Coins the primary medium of exchange and store of wealth** in a modern decentralized monetary system.&#x20;
 
