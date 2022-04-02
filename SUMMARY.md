@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🦁 The Algorithmic Reserve Currency backed by Gold](README.md)
+* [🦁 The Algorithmic Reserve Currency made with Gold](README.md)
 
 ## Guides
 
