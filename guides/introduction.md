@@ -22,7 +22,7 @@ $GODL is an **algorithmic reserve currency and real gold, money**.&#x20;
 
 The $GODL supply increases as the treasury and stakeholders acquire more gold bars in **the NFT registry and more liquid-proof** coins get distributed to the public. Stakeholders benefit, in the same way, from holding **$GODL as it's representative of both physical and digital value**.&#x20;
 
-Stakeholders can transfer, at any point, the proof coins' through physical transport to their location or, exchange the coins as money in the physical world as they are registered as identical in the ledger.&#x20;
+Stakeholders can transfer, at any point, the _**proof of liquidity coins**_' through physical transport to their location or, exchange the coins as money in the physical world as they are registered as identical in the ledger.&#x20;
 
 This model offers a thousand-year-old solution from a sound metaphysical perspective to the failure of fiat monetary systems, where benefiting only a few central actors from inflation. If you’re buying gold or cryptocurrency as part of a portfolio diversification strategy, $GODL is a meeting of minds through the Middle Way. Simply, it achieves protection in an event of a system-wide crisis, as stakeholders own the physical metal that accrues yield on the DeFi protocol and can be traded both online and offline in the Omniverse.&#x20;
 
