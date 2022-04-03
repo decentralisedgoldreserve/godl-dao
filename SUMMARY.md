@@ -8,6 +8,7 @@
 * [The novel importance of Gold as a strategic asset in the cryptocurrency revolution](guides/the-novel-importance-of-gold-as-a-strategic-asset-in-the-cryptocurrency-revolution.md)
 * [Store of Value & Wealth Creation - $GODL](guides/store-of-value-and-wealth-creation-usdgodl.md)
 * [FAQ](guides/faq.md)
+* [Page 1](guides/page-1.md)
 
 ## Fundamentals
 
