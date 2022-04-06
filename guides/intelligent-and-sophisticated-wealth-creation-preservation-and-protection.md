@@ -89,3 +89,9 @@ The **gold** colour is associated with illumination, love, compassion, courage, 
 Gold, the shiny yellow metal prized for its beauty and malleability and used in many different industries, is actually created inside massive stars when they explode into a supernova. Of course, after a star supernovas and forms gold, the precious metal has to travel to Earth in some way.
 
 [READ MORE](https://www.lydus.co/#)
+
+
+
+One of the more valued elements, gold represents perfection in all matter, on any level. It  symbolizes humankind’s quest to perfect, illuminate and refine his/herself. Because of its resistance to heat and acid, gold is a symbol of immutability, eternity and perfection.
+
+\
