@@ -2,7 +2,7 @@
 description: A re-design of the best of mmoney and DeFi.
 ---
 
-# 🦁 The Algorithmic Reserve Currency made with Gold
+# 🦁 The Algorithmic Reserve Currency made of Gold
 
 {% hint style="success" %}
 Lydus Co is an algorithmic reserve currency backed by a decentralised immutable registry of NFT ownership and insurance protocol based on the $GODL token and made with gold.&#x20;
@@ -14,7 +14,7 @@ What has been used for thousands of years now has been redesigned, creating risk
 Carl Sagan famously said we are made from the&#x20;
 {% endhint %}
 
-
+&#x20;
 
 {% hint style="success" %}
 Of all the minerals that are mined, none is more useful than gold, Geology.com [says](https://geology.com/minerals/gold/uses-of-gold.shtml). That’s because gold conducts electricity, doesn’t tarnish, can be combined with other metals, can easily be melted and shaped, and has a brilliant luster.
@@ -28,7 +28,7 @@ $92 billion per capita project - [psyche](https://www.usmoneyreserve.com/blog/go
 
 
 
-
+not your keys, not your coins becomes, not coins and keys then just keys.
 
 > We offer fully insured segregated and allocated storage with no counter-party risk, ensuring that our clients are the legal owners of their gold or have it delivered to them. — Vault Management
 
@@ -50,13 +50,17 @@ One $GODL token is both one-ounce bullion coin struck in 999.9 fine gold in coll
 Our goal is to create a decentralised gold reserve currency, controlled by autonomous systems, in which the behaviour of the GODL token is optimised at a high level by the collective organisation of participants and the global gold supply.
 {% endhint %}
 
+{% embed url="https://www.youtube.com/watch?v=XyaRdwezLtg" %}
+
 ![The Fist Coin in the World.](<.gitbook/assets/lydian starter.png>)
 
 ### Guides: Pactolus Protocol
 
-Lydus Co is a fork of $OHM on Avalanche. Buy $GODL from the market or use the Pactolus River (coinage system) and then stamp it with the lion's seal (stake it) to receive more $GODL.
+Lydus Co is a fork of $OHM on EMV compatible chains.&#x20;
 
-{% embed url="https://www.youtube.com/watch?v=q2EAx2w7Z3U" %}
+Buy $GODL from the market or use the Pactolus River (coinage system) and then stamp it with the lion's seal (stake it) to receive more $GODL though DeFi Dapps
+
+{% embed url="https://www.youtube.com/watch?v=eRa0Mnd93wE" %}
 
 {% content-ref url="utility/staking-hot-and-cold-storage.md" %}
 [staking-hot-and-cold-storage.md](utility/staking-hot-and-cold-storage.md)
@@ -69,6 +73,10 @@ Lydus Co is a fork of $OHM on Avalanche. Buy $GODL from the market or use the Pa
 {% content-ref url="fundamentals/executive-summary/roadmap/task-list/multichain-capabilities.md" %}
 [multichain-capabilities.md](fundamentals/executive-summary/roadmap/task-list/multichain-capabilities.md)
 {% endcontent-ref %}
+
+
+
+{% embed url="https://www.youtube.com/watch?v=q2EAx2w7Z3U" %}
 
 {% hint style="success" %}
 Lydus Co can solve many critical problems of the gold markets, such as; illiquidity, opacity, and inefficiency. By delivering on our objectives, a huge disruption of the financial markets and re-standardisation of a new automated monetary policy system backed by real gold.
