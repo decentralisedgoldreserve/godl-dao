@@ -28,6 +28,8 @@ $92 billion per capita project - [psyche](https://www.usmoneyreserve.com/blog/go
 
 
 
+{% embed url="https://www.youtube.com/watch?v=XyaRdwezLtg" %}
+
 not your keys, not your coins becomes, not coins and keys then just keys.
 
 > We offer fully insured segregated and allocated storage with no counter-party risk, ensuring that our clients are the legal owners of their gold or have it delivered to them. — Vault Management
@@ -49,8 +51,6 @@ One $GODL token is both one-ounce bullion coin struck in 999.9 fine gold in coll
 {% hint style="success" %}
 Our goal is to create a decentralised gold reserve currency, controlled by autonomous systems, in which the behaviour of the GODL token is optimised at a high level by the collective organisation of participants and the global gold supply.
 {% endhint %}
-
-{% embed url="https://www.youtube.com/watch?v=XyaRdwezLtg" %}
 
 ![The Fist Coin in the World.](<.gitbook/assets/lydian starter.png>)
 
