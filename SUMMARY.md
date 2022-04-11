@@ -10,6 +10,7 @@
 * [FAQ](guides/faq.md)
 * [Intelligent and Sophisticated Wealth Creation, Preservation & Protection​](guides/intelligent-and-sophisticated-wealth-creation-preservation-and-protection.md)
 * [Page 1](guides/page-1.md)
+* [Page 2](guides/page-2.md)
 
 ## Fundamentals
 

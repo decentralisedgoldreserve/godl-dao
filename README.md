@@ -74,7 +74,7 @@ Buy $GODL from the market or use the Pactolus River (coinage system) and then st
 [multichain-capabilities.md](fundamentals/executive-summary/roadmap/task-list/multichain-capabilities.md)
 {% endcontent-ref %}
 
-
+{% embed url="https://ar-code.com/pricing" %}
 
 {% embed url="https://www.youtube.com/watch?v=q2EAx2w7Z3U" %}
 
